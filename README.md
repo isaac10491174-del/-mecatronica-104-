@@ -1,8 +1,13 @@
 **integrantes:**
-**isaac**
-**Cinthya**
-**Pablo**
-**Felipe**
+
+**isaac;**
+
+**Cinthya;**
+
+**Pablo;**
+
+**Felipe;**
+
 **Juan Carlos**
 
 # 🤖 Robótica na Mecatrônica – Resumo Técnico
@@ -25,8 +30,5 @@ A **mecatrônica** é a engenharia que integra **mecânica, eletrônica, control
 | **Interface** | IHM, teleoperação, supervisão | Automação industrial, redes de comunicação |
 
 ---
-
-## 🔄 Ciclo típico de um robô mecatrônico
-
 o nosso site estará aqui mizael:
 https://gentle-salmiakki-740832.netlify.app/
