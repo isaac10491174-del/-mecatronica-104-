@@ -1,20 +1,19 @@
 # 🤖 Robótica na Mecatrônica – Resumo Técnico
 
-📅 **Data:** 28 de agosto de 2026  
-👨‍🎓 **Disciplina:** Cultura de IA  
-🏫 **Curso:** Mecatrônica
+**Sala:** 104  
+**Data:** 28 de agosto de 2026  
+**Disciplina:** Cultura de IA  
+**Curso:** Mecatrônica 2  
+**Professor:** Mizael  
 
-**integrantes:**
+**Integrantes:**  
+- Isaac  
+- Cinthya  
+- Pablo  
+- Felipe  
+- Juan Carlos  
 
-**isaac;**
-
-**Cinthya;**
-
-**Pablo;**
-
-**Felipe;**
-
-**Juan Carlos**
+---
 
 ## 🔗 Relação direta
 
@@ -35,8 +34,6 @@ A **mecatrônica** é a engenharia que integra **mecânica, eletrônica, control
 
 ---
 
----
-
 ## 🎯 Exemplos de robôs projetados na mecatrônica
 
 | **Robô** | **Componentes mecatrônicos principais** |
@@ -52,9 +49,9 @@ A **mecatrônica** é a engenharia que integra **mecânica, eletrônica, control
 
 Porque nenhuma outra área **sozinha** consegue construir um robô:
 
-- O **engenheiro mecânico** projeta a estrutura, mas não controla
-- O **eletricista** faz os circuitos, mas não movimenta
-- O **programador** cria o software, mas não interage com o mundo físico
+- O **engenheiro mecânico** projeta a estrutura, mas não a controla.
+- O **eletricista** faz os circuitos, mas não movimenta o sistema.
+- O **programador** cria o software, mas não interage com o mundo físico.
 
 O **mecatrônico** une tudo isso: **projeta, controla, programa e integra**.
 
@@ -62,16 +59,12 @@ O **mecatrônico** une tudo isso: **projeta, controla, programa e integra**.
 
 ## 🧠 Cultura IA + Robótica = Futuro da Mecatrônica
 
-Hoje, robôs com **visão computacional** e **aprendizado por reforço** estão substituindo controles tradicionais. Exemplo: um braço que aprende a pegar objetos sozinho usando redes neurais.
+Hoje, robôs com **visão computacional** e **aprendizado por reforço** estão substituindo controles tradicionais. Um exemplo é um braço robótico que aprende a pegar objetos sozinho usando redes neurais.
 
-**Mas atenção:** a base ainda é a cinemática, dinâmica e controle que você aprende na mecatrônica. A IA **complementa** e não substitui.
+**Mas atenção:** a base ainda é a cinemática, a dinâmica e o controle que você aprende na mecatrônica. A IA **complementa** e não substitui esse conhecimento.
 
 ---
-o nosso site estará aqui mizael:
-https://robotica-na-mecatronica.netlify.app/
 
+## 📌 Nosso site
 
-**Juan Carlos**
-
-o nosso site estará aqui mizael:
-https://robotica-na-mecatronica.netlify.app/
+[https://robotica-na-mecatronica.netlify.app/](https://robotica-na-mecatronica.netlify.app/)
