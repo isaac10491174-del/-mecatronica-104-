@@ -1,5 +1,21 @@
 # 🤖 Robótica na Mecatrônica – Resumo Técnico
 
+📅 **Data:** 28 de agosto de 2026  
+👨‍🎓 **Disciplina:** Cultura de IA  
+🏫 **Curso:** Mecatrônica
+
+**integrantes:**
+
+**isaac;**
+
+**Cinthya;**
+
+**Pablo;**
+
+**Felipe;**
+
+**Juan Carlos**
+
 ## 🔗 Relação direta
 
 A **mecatrônica** é a engenharia que integra **mecânica, eletrônica, controle e computação**. A **robótica** é a aplicação máxima dessa integração, pois um robô é essencialmente um sistema mecatrônico completo.
@@ -51,28 +67,9 @@ Hoje, robôs com **visão computacional** e **aprendizado por reforço** estão 
 **Mas atenção:** a base ainda é a cinemática, dinâmica e controle que você aprende na mecatrônica. A IA **complementa** e não substitui.
 
 ---
+o nosso site estará aqui mizael:
+https://robotica-na-mecatronica.netlify.app/
 
-## 📌 Resumo final
-
-> **Robótica é a síntese máxima da mecatrônica.**  
-> Se você domina robótica, domina:  
-> *mecânica + eletrônica + software + controle + integração de sistemas*
-
----
-
-📅 **Data:** 28 de agosto de 2026  
-👨‍🎓 **Disciplina:** Cultura de IA  
-🏫 **Curso:** Mecatrônica
-
-**integrantes:**
-
-**isaac;**
-
-**Cinthya;**
-
-**Pablo;**
-
-**Felipe;**
 
 **Juan Carlos**
 
