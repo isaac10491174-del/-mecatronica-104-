@@ -77,4 +77,4 @@ Hoje, robôs com **visão computacional** e **aprendizado por reforço** estão 
 **Juan Carlos**
 
 o nosso site estará aqui mizael:
-https://gentle-salmiakki-740832.netlify.app/
+https://robotica-na-mecatronica.netlify.app/
