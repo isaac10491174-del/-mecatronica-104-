@@ -1,7 +1,7 @@
 # 🤖 Projeto de Mecatrônica — Aplicações em Robótica
 
 ---
-
+j
 | 📋 **Informações Gerais** | 📍 **Detalhes** |
 | :--- | :--- |
 | **Curso** | Mecatrônica |
