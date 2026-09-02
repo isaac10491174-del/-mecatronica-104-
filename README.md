@@ -1,28 +1,11 @@
-# 🤖 Projeto de Mecatrônica — Aplicações em Robótica
 
----
-
-| 📋 **Informações Gerais** | 📍 **Detalhes** |
-| :--- | :--- |
-| **Curso** | Mecatrônica |
-| **Tema** | Robótica em Ambiente de Mecatrônica |
-| **Local / Laboratório** | Sala 104 |
-
-### 👥 Integrantes da Equipe
-- **Isaac Duarte**
-- **Cynthia Guimarães**
-- **Pablo Alves**
-- **Juan Carlos**
-- **Felipe Giovani**
-
----
 # 🤖 Projeto de Mecatrônica — Aplicações em Robótica
 
 | 📋 **Informações Gerais** | 📍 **Detalhes** |
 | :--- | :--- |
 | **Curso** | Engenharia Mecatrônica / Automação |
 | **Tema** | Robótica em Ambiente de Mecatrônica |
-| **Local / Laboratório** | Sala 108 |
+| **Local / Laboratório** | Sala 104 |
 
 ### 👥 Integrantes da Equipe
 - **Isaac Duarte**
