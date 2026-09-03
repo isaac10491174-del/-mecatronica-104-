@@ -45,3 +45,6 @@ A **mecatrônica** é a engenharia multidisciplinar que integra mecânica, eletr
        ┌───────────▼────────────┐
        │ 🤖 SISTEMA ROBÓTICO    │
        └────────────────────────┘
+
+aqui está o link do site:
+https://robotica-na-mecatronica.netlify.app/
